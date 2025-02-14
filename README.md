@@ -1,0 +1,1 @@
+This repository demonstrates a common Python error: an unclosed bracket in a function definition. The `unclosed_bracket.py` file contains the erroneous code, resulting in a `SyntaxError`. The solution, provided in `unclosed_bracket_solution.py`, shows how to correct the error by ensuring all brackets are properly closed.
